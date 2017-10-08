@@ -1,0 +1,1036 @@
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\Music.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\Music.wma
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Levels\1.txt
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Levels\2.txt
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\Users\Samdog\Desktop\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samdog\Desktop\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Samdog\Desktop\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\Users\Samdog\Desktop\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Levels\3.txt
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\2.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\game_over.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Shoot.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\MachineGunPowerup.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\SpreadshotPowerup.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Spreadshot.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\game_over.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagDown.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagUp.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDown.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerIdle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerUp.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\1.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\3.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\2.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Music.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Shoot.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\MachineGunPowerup.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\SpreadshotPowerup.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Spreadshot.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Music.wma
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\6.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\5.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerIdle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDead.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJump.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpUp.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Overlays\game_over.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_0.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_1.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_2.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_3.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagDown.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagUp.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDown.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerIdle.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerUp.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDead.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJump.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagDown.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagUp.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDown.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpUp.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\background.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\blank.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Levels\1.txt
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Levels\3.txt
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Levels\2.txt
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Levels\6.txt
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Levels\5.txt
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\Music.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\Shoot.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\MachineGunPowerup.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\SpreadshotPowerup.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\Spreadshot.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\Content\Sounds\Music.wma
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\background.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\blank.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\EnemyFire.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\1.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\game_over.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_0.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_1.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_2.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_3.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagDown.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagUp.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDown.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerIdle.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerUp.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDead.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJump.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagDown.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagUp.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDown.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpUp.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\background.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\blank.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\2.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\1.txt
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Music.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Shoot.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\MachineGunPowerup.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\SpreadshotPowerup.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Spreadshot.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\EnemyFire.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Music.wma
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\3.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\game_over.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerIdle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDead.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJump.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\background.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\blank.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\3.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\2.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\1.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Shoot.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\MachineGunPowerup.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\SpreadshotPowerup.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Spreadshot.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\EnemyFire.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\menu.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\menu.wma
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.wma
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\menu.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Levels\3.txt
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.wma
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\menu.wma
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Overlays\game_over.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_0.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_1.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_2.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_3.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagDown.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagUp.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDown.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerIdle.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerUp.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDead.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJump.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagDown.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagUp.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDown.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpUp.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\background.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\blank.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\gradient.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\gamefont.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\menufont.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Levels\3.txt
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Levels\2.txt
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Levels\1.txt
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\Shoot.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\MachineGunPowerup.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\SpreadshotPowerup.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\Spreadshot.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\EnemyFire.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\menu.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\menu.wma
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.wma
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\My Documents\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Bob\My Documents\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\Documents and Settings\Bob\My Documents\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDead.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\EnemyFire.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\menu.wma
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\menu.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\Spreadshot.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.wma
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\Shoot.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Overlays\game_over.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJump.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\blank.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerIdle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\MachineGunPowerup.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDown.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\SpreadshotPowerup.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerUp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\background.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\Users\Sambardo\Desktop\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sambardo\Desktop\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sambardo\Desktop\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\Users\Sambardo\Desktop\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\lives.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerHurt.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Overlays\gameover_temp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\lives.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Overlays\gameover_temp.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerHurt.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\Gun.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\MachineGun.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\SpreadShot.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\GunHUD.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\MachineGunHUD.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\SpreadShotHUD.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\GunHUD.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\MachineGunHUD.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\SpreadShotHUD.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\Gun.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\MachineGun.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\SpreadShot.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\lives.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Idle.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Die.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Overlays\gameover_temp.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Die.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Idle.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\GunHUD.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\MachineGunHUD.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\SpreadShotHUD.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\Gun.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\MachineGun.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\SpreadShot.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerHurt.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Run.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Bullets\LargeBullet.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooterBoss\Die.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooterBoss\Idle.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Die.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Idle.xnb
+C:\Documents and Settings\Bob\My Documents\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterHit.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Run.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Bullets\LargeBullet.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooterBoss\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterHit.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Idle.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooterBoss\Die.xnb
+C:\Users\Sambardo\Desktop\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Run.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Overlays\game_over.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_0.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_1.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_2.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_3.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagDown.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagUp.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDown.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerIdle.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerUp.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDead.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJump.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagDown.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagUp.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDown.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpUp.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\background.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\blank.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\gradient.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\lives.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Idle.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Die.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Overlays\gameover_temp.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Die.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Idle.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\GunHUD.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\MachineGunHUD.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\SpreadShotHUD.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\Gun.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\MachineGun.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\SpreadShot.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Run.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Bullets\LargeBullet.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooterBoss\Die.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooterBoss\Idle.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Die.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Idle.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Run.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\gamefont.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\menufont.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\Shoot.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\MachineGunPowerup.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\SpreadshotPowerup.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\Spreadshot.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\EnemyFire.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerHurt.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterHit.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.wma
+C:\xna\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\xna\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\xna\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\xna\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\xna\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\xna\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\musicbob.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\musicbob.wma
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_3.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDown.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.wma
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\Shoot.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\Gun.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\EnemyFire.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\musicbob.wma
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerHurt.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Idle.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_1.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Idle.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\musicbob.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpUp.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Bullets\LargeBullet.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Overlays\game_over.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_2.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Idle.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\GunHUD.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerIdle.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Die.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\SpreadShot.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooterBoss\Die.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooterBoss\Idle.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagUp.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\lives.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\background.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Overlays\gameover_temp.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerUp.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Die.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\MachineGun.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_0.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagUp.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Run.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Run.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagDown.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\blank.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterHit.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDead.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\Spreadshot.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\MachineGunPowerup.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJump.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\SpreadShotHUD.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Die.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDown.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\MachineGunHUD.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagDown.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\SpreadshotPowerup.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\xna\ImagineCup\bin\x86\Debug\Content\bg.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Gem.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\Exit.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Tiles\Platform.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Overlays\you_died.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Overlays\you_lose.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Overlays\you_win.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\bullet.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Overlays\game_over.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_0.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_1.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_2.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Backgrounds\Layer3_3.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagDown.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDiagUp.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDown.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerIdle.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerUp.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerDead.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJump.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagDown.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDiagUp.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpDown.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Player\PlayerJumpUp.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\background.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\blank.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\gradient.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\lives.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Idle.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\FlyingEnemy\Die.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Overlays\gameover_temp.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Die.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Idle.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\GunHUD.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\MachineGunHUD.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Hud\SpreadShotHUD.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\Gun.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\MachineGun.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Powerups\Guns\SpreadShot.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooter\Run.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Bullets\LargeBullet.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooterBoss\Die.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\ChestShooterBoss\Idle.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Die.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Idle.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Spike\Run.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\bg.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\gamefont.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\menufont.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Levels\0.txt
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\Shoot.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\MachineGunPowerup.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\SpreadshotPowerup.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\Spreadshot.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\EnemyFire.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\PlayerHurt.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\MonsterHit.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\musicbob.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\Music1.wma
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\musicbob.wma
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\ImagineCup.exe
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\ImagineCup.pdb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\obj\x86\Debug\ImagineCup.exe
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\obj\x86\Debug\ImagineCup.pdb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\menuMusic.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\menuSelect.xnb
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\menuMusic.wma
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Bullets\rocketBullet.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sprites\Bullets\rocketBullet.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\menuMusic.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\menuSelect.xnb
+C:\xna\ImagineCup\bin\x86\Debug\Content\Sounds\menuMusic.wma
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\menuSelect.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\bg.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\menuMusic.wma
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sprites\Bullets\rocketBullet.xnb
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\bin\x86\Debug\Content\Sounds\menuMusic.xnb

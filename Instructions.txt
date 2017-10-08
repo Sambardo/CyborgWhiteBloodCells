@@ -1,0 +1,23 @@
+Instructions:
+Aiming up or down while standing still fires in that direction.
+Aiming up or down while moving fires diagonally in that direction.
+Kill the enemy diseases in the body.
+Collect Gems for a higher score.
+Collect power ups to help you survive.
+
+KeyBoard controls:
+Jump: X, K, Space
+Shoot: Z, J, Alt
+Move Left: A, Left Arrow
+Move Right: D, Right Arrow
+Down: S, Down Arrow
+Up: W, Up Arrow
+continue: Space
+Pause: Esc
+
+Gamepad controls:
+Jump: A
+Shoot: X
+Up, Down, Left, Right: Dpad or Thumbstick (untested)
+Continue: A
+

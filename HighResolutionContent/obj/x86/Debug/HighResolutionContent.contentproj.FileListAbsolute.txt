@@ -1,0 +1,11 @@
+C:\Users\Samdog\Desktop\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sambardo\Desktop\imaginecuptest\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samdog\Desktop\ImagineCup\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sambardo\Desktop\ImagineCup\ImagineCup\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\My Documents\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sambardo\Desktop\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\xna\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sambardo\Desktop\CWBCFtF\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr0899\My Documents\Downloads\CWBCFtF\ImagineCup\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
